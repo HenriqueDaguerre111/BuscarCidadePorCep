@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        String path = "C:\\Users\\hdfig\\OneDrive\\Desktop\\BuscarCidadePorCEP\\src\\main\\resources\\ceps.txt";
+        String path = "src/main/resources/ceps.txt";
 
         IntervalTreeLogic treeSearch = new IntervalTreeLogic();
 
